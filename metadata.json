@@ -1,0 +1,6 @@
+{
+  "name": "FXR TOURNAMENT",
+  "description": "Free Fire esports tournament platform with BR Rank, Lone Wolf, Custom rooms, and powerful Admin Panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
